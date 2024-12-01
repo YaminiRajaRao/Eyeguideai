@@ -6,7 +6,7 @@ EyeGuide AI is a cutting-edge tool designed to assist visually impaired individu
 ## Features
 - **Scene Understanding**  
   Get a description of the visual scene to assist with navigation and awareness of surroundings.  
-  ![Scene Understanding Screenshot](..\screenshots\scene_understanding.png)
+  ![Scene Understanding Screenshot](..sc\image.png)
 
 - **Text-to-Speech**  
   Automatically reads out extracted text or descriptions to provide auditory feedback.  
