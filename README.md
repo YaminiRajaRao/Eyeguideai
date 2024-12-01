@@ -6,19 +6,19 @@ EyeGuide AI is a cutting-edge tool designed to assist visually impaired individu
 ## Features
 - **Scene Understanding**  
   Get a description of the visual scene to assist with navigation and awareness of surroundings.  
-  ![Scene Understanding Screenshot](..sc\image.png)
+  ![Scene Understanding Screenshot](sc/image.png)
 
 - **Text-to-Speech**  
   Automatically reads out extracted text or descriptions to provide auditory feedback.  
-  ![Text-to-Speech Screenshot](..\screenshots\text_to_speech.png)
+  ![Text-to-Speech Screenshot](sc/ex.png)
 
 - **Object & Obstacle Detection**  
   Identifies obstacles and objects in images and highlights their positions for safe navigation.  
-  ![Object & Obstacle Detection Screenshot](..\screenshots\object_detection.png)
+  ![Object & Obstacle Detection Screenshot](sc/object.png)
 
 - **Personalized Assistance**  
   Offers task-specific guidance based on the content of the image, including item recognition and label reading.  
-  ![Personalized Assistance Screenshot](..\screenshots\personalized_assistance.png)
+  ![Personalized Assistance Screenshot](sc/pa.png)
 
 ## Technology Stack
 - **Image Processing**: The tool uses **Tesseract OCR** for text extraction from images.
@@ -49,5 +49,4 @@ EyeGuide AI is a cutting-edge tool designed to assist visually impaired individu
 - **GitHub**: [github.com/YaminiRajaRao](https://github.com/YaminiRajaRao)  
 - **LinkedIn**: [linkedin.com/in/yamini-j9010](https://www.linkedin.com/in/yamini-j9010)   
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
