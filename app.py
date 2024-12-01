@@ -13,7 +13,7 @@ import base64
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Configure Google Gemini API Key
-GOOGLE_API_KEY = "AIzaSyBEHT9QyKya2UlyWzh3grgfl0F-e08sYeE"  # Add your API key
+GOOGLE_API_KEY = "add api key here"  # Add your API key
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GOOGLE_API_KEY)
 
 # Function to convert an image to Base64 format
